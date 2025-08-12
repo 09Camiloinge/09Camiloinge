@@ -13,7 +13,7 @@
 
 <!-- Imagen personal -->
 <p align="center">
-  <img src="C:\Users\Camilo Pardo\Pictures\Imagen de WhatsApp 2025-08-12 a las 11.34.28_68b72d4d.jpg" alt="Cristian Camilo" width="200" style="border-radius: 50%; border: 3px solid #4F8EF7;" />
+  <img src="FOTO CAMILO.jpg" alt="Cristian Camilo" width="200" style="border-radius: 50%; border: 3px solid #4F8EF7;" />
 </p>
 ---
 
