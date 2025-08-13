@@ -15,7 +15,7 @@
 <p align="center">
   <img src="FOTO CAMILO.jpg" alt="Cristian Camilo" width="200" style="border-radius: 50%; border: 3px solid #4F8EF7;" />
 </p>
----
+
 
 ### 🚀 Sobre mí
 Soy **Cristian Camilo**, estudiante en etapa final de la **Tecnología en Desarrollo de Software**. Me apasiona el mundo de la programación y el desarrollo de soluciones tecnológicas que sean útiles, eficientes y visualmente atractivas.  
@@ -26,7 +26,7 @@ Disfruto enfrentar retos que me permitan aprender y mejorar mis habilidades, esp
 
 Actualmente, me encuentro enfocado en fortalecer mis conocimientos en **arquitectura de software, optimización de aplicaciones y servicios en la nube**, con miras a convertirme en un desarrollador integral capaz de aportar en todas las etapas de un proyecto.
 
----
+
 
 ### 🛠️ Tecnologías y herramientas
 <p align="center">
@@ -50,7 +50,7 @@ Actualmente, me encuentro enfocado en fortalecer mis conocimientos en **arquitec
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
----
+
 
 ### 📊 Estadísticas de GitHub
 <p align="center">
@@ -58,10 +58,14 @@ Actualmente, me encuentro enfocado en fortalecer mis conocimientos en **arquitec
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=09Camiloinge&layout=compact&theme=tokyonight" alt="Lenguajes más usados"/>
 </p>
 
----
 
 ### 📫 Contacto
 <p align="center">
-  <a href="mailto:cristiangaravitop@gmail.com"><img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/camilo-pardo-42b781358/"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:cristiangaravitop@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/camilo-pardo-42b781358/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
+
